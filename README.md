@@ -18,5 +18,8 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (2/23):
-*  
+## Songs Completed (4/23):
+*  Come Together
+*  Here Comes The Sun
+*  Sgt. Pepper's Lonely Hearts Club Band/With a Little Help from My Friends
+*  Twist And Shout
