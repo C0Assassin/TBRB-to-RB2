@@ -18,7 +18,7 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page:
 
-## Songs Completed (5/23):
+## Songs Completed (5/74):
 *  Come Together
 *  Eight Days A Week
 *  Here Comes The Sun
