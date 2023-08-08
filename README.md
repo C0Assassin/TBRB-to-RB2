@@ -16,7 +16,7 @@ Hand animations follow as closely as can be with TBRB's hand animations. Chords 
 Midis are left untouched aside from the aformentioned animation edits, so harmonies are included in these packages.
 DTA and metadata information is successfully transferred over from TBRB's dta.
 
-Current song progress will be listed here on this splash page:
+Current song progress will be listed here on this splash page.
 
 ## Songs Completed (9/74):
 
