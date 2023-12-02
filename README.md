@@ -18,7 +18,7 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page.
 
-## Songs Completed (10/74):
+## Songs Completed (12/74):
 
 *  Being For The Benefit Of Mr. Kite!
 *  Come Together
@@ -26,6 +26,8 @@ Current song progress will be listed here on this splash page.
 *  Get Back
 *  Her Majesty
 *  Here Comes The Sun
+*  Hey Bulldog
+*  Michelle
 *  Sgt. Pepper's Lonely Hearts Club Band/With a Little Help from My Friends
 *  Twist And Shout
 *  While My Guitar Gently Weeps
