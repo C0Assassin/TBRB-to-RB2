@@ -18,8 +18,11 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page.
 
-## Songs Completed (13/74):
+## Songs Completed (17/74):
 
+*  A Hard Day's Night
+*  And Your Bird Can Sing
+*  Boys
 *  Being For The Benefit Of Mr. Kite!
 *  Come Together
 *  Eight Days A Week
@@ -29,6 +32,7 @@ Current song progress will be listed here on this splash page.
 *  Hey Bulldog
 *  I Me Mine
 *  Michelle
+*  Paperback Writer
 *  Sgt. Pepper's Lonely Hearts Club Band/With a Little Help from My Friends
 *  Twist And Shout
 *  While My Guitar Gently Weeps
