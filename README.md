@@ -18,13 +18,15 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page.
 
-## Songs Completed (17/74):
+## Songs Completed (19/74):
 
 *  A Hard Day's Night
 *  And Your Bird Can Sing
 *  Boys
 *  Being For The Benefit Of Mr. Kite!
+*  Can't Buy Me Love
 *  Come Together
+*  Day Tripper
 *  Eight Days A Week
 *  Get Back
 *  Her Majesty
