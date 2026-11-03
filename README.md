@@ -27,6 +27,7 @@ Current song progress will be listed here on this splash page.
 *  Can't Buy Me Love
 *  Come Together
 *  Day Tripper
+*  Do You Want To Know A Secret
 *  Eight Days A Week
 *  Get Back
 *  Her Majesty
