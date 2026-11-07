@@ -18,9 +18,10 @@ DTA and metadata information is successfully transferred over from TBRB's dta.
 
 Current song progress will be listed here on this splash page.
 
-## Songs Completed (21/74):
+## Songs Completed (22/74):
 
 *  A Hard Day's Night
+*  All You Need Is Love
 *  And Your Bird Can Sing
 *  Boys
 *  Being For The Benefit Of Mr. Kite!
